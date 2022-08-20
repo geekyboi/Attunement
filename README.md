@@ -2,7 +2,7 @@
 Replacement for Harmony - Extensive connectivity options and compatibility with existing harmony remote
 
 ## Project Aims:
-- node red based control
+- Node red based control, Auto generated through wizard with ability to modify limitlessly
 - Tight integration with home assistant
 - Extensive connectivity and controllability (MQTT, HTTP, terminal, IR, RS232 etc
 - Bluetooth passthrough for 1 keyboard/mouse shared between multiple devices
