@@ -9,3 +9,4 @@ Replacement for Harmony - Extensive connectivity options and compatibility with 
 - Expansible hardware built on raspberry pi (lots of IR outputs/inputs, Ethernet)
 - Customise everything on the remote
 - hosted completely locally
+- Extraction of all IR commands from harmony
