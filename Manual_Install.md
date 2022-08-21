@@ -31,7 +31,7 @@ Attunement uses docker containers to run the various functions
 
 
 ## Install Node Red In Docker
-`docker run -it -p 1880:1880 -v /home/pi/node-red:/data --name attuneNodeRed nodered/node-red:latest`
+`docker run -it -p 1880:1880 -v /home/pi/.node-red:/data --name attuneNodeRed nodered/node-red:latest`
 
 `docker start attuneNodeRed`
 
