@@ -30,12 +30,19 @@ Attunement uses docker containers to run the various functions
 `sudo systemctl enable containerd.service`
 
 
-## Install Node Red In Docker
-`docker run -it -p 1880:1880 -v /home/pi/.node-red:/data --name attuneNodeRed nodered/node-red:latest`
+~~## Install Node Red In Docker~~
 
-`docker start attuneNodeRed`
+~~`docker run -it -p 1880:1880 -v /home/pi/.node-red:/data --name attuneNodeRed nodered/node-red:latest`~~
 
-`docker update --restart unless-stopped attuneNodeRed`
+~~`docker start attuneNodeRed`~~
+
+~~`docker update --restart unless-stopped attuneNodeRed`~~
+
+## Install Node Red Locally
+
+`bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)'
+
+Then follow the instructions. This may take a few mins to run
 
 
 ## Download Nodejs
