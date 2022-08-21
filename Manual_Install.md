@@ -59,6 +59,7 @@ git copy web server
 
 ## Install PM2 and setup
 Used to manage NodeJS server. Will be moved to docker enviroment
+
 `sudo npm install pm2 -g`
 
 `sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u pi --hp /home/pi`
