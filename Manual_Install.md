@@ -30,7 +30,7 @@ Attunement uses docker containers to run the various functions
 `sudo systemctl enable containerd.service`
 
 
-~~## Install Node Red In Docker~~
+## Install Node Red In Docker
 
 ~~`docker run -it -p 1880:1880 -v /home/pi/.node-red:/data --name attuneNodeRed nodered/node-red:latest`~~
 
