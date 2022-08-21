@@ -40,7 +40,7 @@ Attunement uses docker containers to run the various functions
 
 ## Install Node Red Locally
 
-`bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)'
+`bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)`
 
 Then follow the instructions. This may take a few mins to run
 
