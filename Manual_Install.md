@@ -71,7 +71,9 @@ Used to manage NodeJS server. Will be moved to docker enviroment
 
 `sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u pi --hp /home/pi`
 
-`pm2 node /home/pi/web/webserver.js`
+`pm2 start node /home/pi/web/webserver.js --watch`
+
+`pm2 start node-red-start --watch`
 
 `pm2 save`
 
