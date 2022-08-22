@@ -50,6 +50,15 @@ Then follow the instructions. This may take a few mins to run
 
 `sudo apt-get install -y nodejs`
 
+`mkdir web`
+
+`cd web`
+
+`npm init`
+
+enter `app.js` when prompted for entry point: (index.js)
+
+`npm install express`
 
 ## Get stored copy of the webserver
 git copy web server
