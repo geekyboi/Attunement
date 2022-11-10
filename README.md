@@ -12,6 +12,10 @@ Replacement for Harmony - Extensive connectivity options and compatibility with 
 - Extraction of all IR commands from harmony
 - Reuse of existing Harmony Remote (Remote uses unique IR commands to trigger Attunment Functions)
 
+## Hub
+- IR blaster built in + at least 4 IR expansion ports
+- Multiple control methods Zigbee, Wifi, BLE, IR
+
 ## Remote
 - Based on a cheap universal remote
 - Modified to add micro for wifi and bluetooth connection to base (esp32 or similar)
