@@ -11,3 +11,16 @@ Replacement for Harmony - Extensive connectivity options and compatibility with 
 - hosted completely locally
 - Extraction of all IR commands from harmony
 - Reuse of existing Harmony Remote (Remote uses unique IR commands to trigger Attunment Functions)
+
+## Remote
+- Based on a cheap universal remote
+- Modified to add micro for wifi and bluetooth connection to base (esp32 or similar)
+- Majority of original switches kept to improve feel
+- Touchscreen added (~2.4" 240 x 320)
+- Dockable like Harmony
+
+## Remote Dock
+- Pogo pin style connection to remote
+- USB C power connection
+- 3D printed with metal insert for stability
+- Optional IR blaster
