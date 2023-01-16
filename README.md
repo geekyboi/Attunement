@@ -22,6 +22,7 @@ Replacement for Harmony - Extensive connectivity options and compatibility with 
 - Majority of original switches kept to improve feel
 - Touchscreen added (~2.4" 240 x 320)
 - Dockable like Harmony
+- LVGL graphical interface
 
 ## Remote Dock
 - Pogo pin style connection to remote
