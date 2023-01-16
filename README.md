@@ -27,5 +27,8 @@ Replacement for Harmony - Extensive connectivity options and compatibility with 
 ## Remote Dock
 - Pogo pin style connection to remote
 - USB C power connection
-- 3D printed with metal insert for stability
-- Optional IR blaster
+- 3D printed with heavy metal insert for stability
+- Optional IR blaster (maybe)
+
+## Additional Blasters
+- option to add more remote blasters synced to hub
