@@ -17,9 +17,9 @@ Replacement for Harmony - Extensive connectivity options and compatibility with 
 - Multiple control methods Zigbee, Wifi, BLE, IR
 
 ## Remote
-- Based on a cheap universal remote
-- Modified to add micro for wifi and bluetooth connection to base (esp32 or similar)
-- Majority of original switches kept to improve feel
+- Micro controller with wifi and bluetooth connection to base (esp32 or similar)
+- Lipo Battery
+- USB C connector (obvs)
 - Touchscreen added (~2.4" 240 x 320)
 - Dockable like Harmony
 - LVGL graphical interface
