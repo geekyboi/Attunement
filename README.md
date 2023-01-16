@@ -2,7 +2,7 @@
 Replacement for Harmony - Extensive connectivity options and compatibility with existing harmony remote
 
 ## Project Aims:
-- Node red based control, Auto generated through wizard with ability to modify limitlessly
+- Node red style coding, Auto generated through wizard with ability to modify limitlessly
 - Tight integration with home assistant
 - Extensive connectivity and controllability (MQTT, HTTP, terminal, IR, RS232 etc)
 - Bluetooth passthrough for 1 keyboard/mouse shared between multiple devices
@@ -22,7 +22,7 @@ Replacement for Harmony - Extensive connectivity options and compatibility with 
 - USB C connector (obvs)
 - Touchscreen added (~2.4" 240 x 320)
 - Dockable like Harmony
-- LVGL graphical interface
+- LVGL graphical interface with menus not just a long list e.g. games, streaming.
 
 ## Remote Dock
 - Pogo pin style connection to remote
